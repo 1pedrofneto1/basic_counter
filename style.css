@@ -1,0 +1,37 @@
+header{
+    text-align: center;
+    font: 50px normal Arial;
+    color: white;
+}
+body{
+    background-color: rgb(67, 150, 245);
+}
+section{
+    background-color: white;
+    border-radius: 20px;
+    width: 600px;
+    height: 400px;
+    margin-left: 170px;
+    margin-top: 40px;
+}
+footer{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+div#start{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font: 20px normal Arial
+}
+div#result{
+    margin-left: 10px;
+}
+div#result2{
+    margin-left: 10px;
+}
+select{
+    width: 150px;
+}
